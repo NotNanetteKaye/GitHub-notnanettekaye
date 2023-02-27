@@ -1,16 +1,15 @@
-### Hi there 👋
+### Mabuhay 👋
 
-<!--
-**NotNanetteKaye/notnanettekaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From a young age, I deeply admired the arts. I see the beauty in everything around me, and I hope to encourage others to also bask in life's delights.
 
-Here are some ideas to get you started:
+With experiences in coding, photography, and videography, allow me to help you communicate your vision to others by breathing life into your ideas & stories through digital pixels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on my personal portfolio!
+- 🌱 I’m currently learning how to deploy full-stack apps via AWS
+- 📫 How to reach me: dolerananettekaye@gmail.com
+- 😄 Pronouns: she/her/siya
+- ⚡ Fun fact: I am lef-handed!
 -->
+
+Feel free to connect with me on LinkedIn as well: https://www.linkedin.com/in/nanettekayedolera/
