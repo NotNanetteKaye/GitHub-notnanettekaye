@@ -1,4 +1,4 @@
-### Mabuhay :bowtie:
+### Mabuhay :globe_with_meridians:
 
 From a young age, I deeply admired the arts. I see the beauty in everything around me, and I hope to encourage others to also bask in life's delights.
 
