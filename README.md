@@ -1,8 +1,8 @@
 ### Mabuhay :globe_with_meridians:
 
-From a young age, I deeply admired the arts. I see the beauty in everything around me, and I hope to encourage others to also bask in life's delights.
+From a young age, I deeply admired the arts. I see beauty in everything around me and want to encourage others to bask in life's delights.
 
-With experiences in coding, photography, and videography, allow me to help you communicate your vision to others by breathing life into your ideas & stories through digital pixels.
+Experiences in coding, photography, and videography allow me to help you communicate your vision to others by breathing life into your ideas & stories with digital pixels.
 
 
 - 🔭 I’m currently working: on my personal portfolio!
