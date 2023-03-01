@@ -6,7 +6,7 @@ Experiences in coding, photography, and videography allow me to help others tran
 
 
 - 🔭 I’m currently working: on my personal portfolio!
-- 🌱 I’m currently learning: how to deploy full-stack apps via AWS
+- 🌱 I’m currently learning: deployment via AWS, data structures/algorithms, & C#
 - 📫 How to reach me: dolerananettekaye@gmail.com
 - 😄 Pronouns: she/her/siya
 - ⚡ Fun fact: I am left-handed!
