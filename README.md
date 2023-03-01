@@ -2,7 +2,7 @@
 
 From a young age, I deeply admired the arts. I see beauty in everything around me and want to encourage others to bask in life's delights.
 
-Experiences in coding, photography, and videography allow me to help others communicate their vision by breathing life into their ideas & stories through digital pixels.
+Experiences in coding, photography, and videography allow me to help others transform their vision, ideas, & stories into reality through the utilization of digital pixels.
 
 
 - 🔭 I’m currently working: on my personal portfolio!
